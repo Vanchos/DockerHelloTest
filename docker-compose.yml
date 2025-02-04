@@ -1,0 +1,5 @@
+version: '1'
+services:
+  hello:
+    image: docker-hello-test
+    
